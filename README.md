@@ -2,7 +2,7 @@
 My personal portfolio website (www.smrafi.com) — built with HTML, CSS, and JavaScript
 # 🌐 Portfolio Website  
 
-This repository contains the source code and assets for my personal portfolio website → [new.smrafi.com](https://new.smrafi.com).  
+This repository contains the source code and assets for my personal portfolio website → [www.smrafi.com](https://www.smrafi.com).  
 
 ---
 
